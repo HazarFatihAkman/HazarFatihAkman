@@ -5,13 +5,12 @@ Hi, I’m a space detective :detective:. I’m instersted with Asp .net core. I 
 
 <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <br/>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=HazarFatihAkman&style=for-the-badge">
-</a>
+<img align="left" src="https://komarev.com/ghpvc/?username=HazarFatihAkman&style=for-the-badge">
 
 [Ÿ HŸPE]: https://yhype.me
 
 ![](https://hit.yhype.me/github/profile?user_id=74676200)
+<br />
 I was interested with 'em once upon a time (:broken_heart:)
 ---------------------------------------------------------
 <img align="left" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
