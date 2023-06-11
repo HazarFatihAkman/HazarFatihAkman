@@ -1,4 +1,4 @@
-Hi, I’m a space detective :detective:. I’m instersted with Asp .net core. I don't know why do you wanna contact with me but you can contact me via my mail address (akman.hazar.fatih@gmail.com) or my linkedin account(look at down).
+Hi, I’m a space detective :detective:. I’m instersted with Asp .net core. I don't know why do you wanna contact with me but you can contact with me via my mail address (akman.hazar.fatih@gmail.com) or my linkedin account(look at down).
 
 <br/>
 
