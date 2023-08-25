@@ -1,5 +1,5 @@
 ```C#
-var user = new User
+var me = new User
 {
   FullName = "Hazar Fatih Akman",
   ContactInfo = new Dictionary<string, string>()
