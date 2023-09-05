@@ -7,9 +7,9 @@ var me = new User
   ContactInfo = new Dictionary<string, string>()
   {
     { "e-mail", "akman.hazar.fatih@gmail.com" },
-    { "linkedin", "https://www.linkedin.com/in/hazar-fatih-akman/" },
-    { "bento.me", "https://bento.me/hazarfatihakman" },
-    { "read.cv", "https://read.cv/hazarfatihakman" }
+    { "linkedin", "linkedin.com/in/hazar-fatih-akman/" },
+    { "bento.me", "bento.me/hazarfatihakman" },
+    { "read.cv", "read.cv/hazarfatihakman" }
   },
   Languages = { "Turkish - Native", "English - B1 (Intermediate)" },
   Skills =
