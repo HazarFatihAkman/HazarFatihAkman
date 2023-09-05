@@ -1,3 +1,5 @@
+<img align="right" src="https://media.tenor.com/bWYUO3aMqjkAAAAC/naruto-anime.gif" />
+
 ```C#
 var me = new User
 {
@@ -20,4 +22,3 @@ var me = new User
   }
 }
 ```
-[![Hazar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HazarFatihAkman&theme=xcode&bg_color=574A71&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
