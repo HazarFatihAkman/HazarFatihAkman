@@ -22,7 +22,8 @@ var me = new User
     "JavaScript - Between Beginner and Intermediate",
     "TypeScript - Between Beginner and Intermediate",   
     "Css - Between Beginner and Intermediate", 
-    "Python - Interested in"
+    "Python - Interested in",
+    "Java - Interested in"
   }
 }
 ```
