@@ -11,7 +11,11 @@ var me = new User
     { "bento.me", "bento.me/hazarfatihakman" },
     { "read.cv", "read.cv/hazarfatihakman" }
   },
-  Languages = { "Turkish - Native", "English - B1 (Intermediate)" },
+  Languages =
+  {
+    "Turkish - Native",
+    "English - B1 (Intermediate)"
+  },
   Skills =
   {
     "C#/Asp.Net Core - Intermediate",
