@@ -1,4 +1,4 @@
-<img align="right" src="https://media.tenor.com/bWYUO3aMqjkAAAAC/naruto-anime.gif" />
+<img src="https://media.tenor.com/wgTLrwpGEWcAAAAC/itachi.gif" width="100%"/>
 
 ```C#
 var me = new User
