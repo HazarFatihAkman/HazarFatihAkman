@@ -19,11 +19,11 @@ var me = new User
   Skills = new String[]
   {
     "C#/Asp.Net Core - Intermediate",
+    "Java - Learning",
     "JavaScript - Between Beginner and Intermediate",
     "TypeScript - Between Beginner and Intermediate",   
     "Css - Between Beginner and Intermediate", 
-    "Python - Interested in",
-    "Java - Interested in"
+    "Python - Interested in"
   }
 };
 ```
