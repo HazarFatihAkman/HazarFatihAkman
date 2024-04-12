@@ -8,7 +8,6 @@ var me = new User
   {
     { "e-mail", "akman.hazar.fatih@gmail.com" },
     { "linkedin", "linkedin.com/in/hazar-fatih-akman/" },
-    { "bento.me", "bento.me/hazarfatihakman" },
     { "read.cv", "read.cv/hazarfatihakman" }
   },
   Languages = new String[]
