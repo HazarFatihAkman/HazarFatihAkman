@@ -10,7 +10,7 @@ struct User me = {
   },
   .languages = {
     "Turkish - Native",
-    "English - B1 (Intermediate)"
+    "English - B2"
   },
   .skills = {
     "C#/Asp.Net Core - Advanced",
