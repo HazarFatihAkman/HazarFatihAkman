@@ -14,7 +14,7 @@ struct User me = {
   },
   .skills = {
     "C#/Asp.Net Core - Advanced",
-    "C - Current Learning"
+    "C/C++ - Current Learning"
   }
 };
 ```
