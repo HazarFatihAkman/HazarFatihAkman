@@ -1,7 +1,7 @@
 <img src="https://media.tenor.com/wgTLrwpGEWcAAAAC/itachi.gif" width="100%"/>
 
 ```c
-struct User me = {
+User me = {
   .full_name = "Hazar Fatih Akman",
   .contact_info = {
     .e_mail = "akman.hazar.fatih@gmail.com",
