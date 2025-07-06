@@ -13,7 +13,7 @@ user_t me = {
     "English - B2"
   },
   .skills = {
-    "C#/Asp.Net Core - Advanced",
+    "Java - Senior",
     "C/C++ - Current Learning"
   }
 };
