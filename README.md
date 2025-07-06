@@ -13,7 +13,7 @@ user_t me = {
     "English - B2"
   },
   .skills = {
-    "Java - Senior",
+    "Java (with Spring Boot) - Senior",
     "C/C++ - Current Learning"
   }
 };
