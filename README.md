@@ -10,7 +10,7 @@ user_t me = {
   .languages = {
     "Turkish - Native",
     "English - B2",
-    "Kazakh" - A2
+    "Kazakh  - A2"
   },
   .skills = {
     "Java (with Spring Boot) - Senior",
