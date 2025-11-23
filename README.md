@@ -5,12 +5,12 @@ user_t me = {
   .full_name = "Hazar Fatih Akman",
   .contact_info = {
     .e_mail = "akman.hazar.fatih@gmail.com",
-    .linkedin = "linkedin.com/in/hazar-fatih-akman/",
-    .read_cv = "read.cv/hazarfatihakman"
+    .linkedin = "linkedin.com/in/hazar-fatih-akman/"
   },
   .languages = {
     "Turkish - Native",
-    "English - B2"
+    "English - B2",
+    "Kazakh" - A2
   },
   .skills = {
     "Java (with Spring Boot) - Senior",
