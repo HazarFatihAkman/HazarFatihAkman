@@ -4,7 +4,7 @@
 user_t me = {
   .full_name = "Hazar Fatih Akman",
   .contact_info = {
-    .e_mail = "akman.hazar.fatih@gmail.com",
+    .email = "akman.hazar.fatih@gmail.com",
     .linkedin = "linkedin.com/in/hazar-fatih-akman/"
   },
   .languages = {
