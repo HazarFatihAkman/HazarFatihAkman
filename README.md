@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/OOItMYPxdasAAAAd/t%C3%BCrk%C3%A7%C3%BC-t%C3%BCrk%C3%A7%C3%BCl%C3%BCk.gif" width="100%"/>
+<img src="https://media1.tenor.com/m/K1XV6BBgpYgAAAAd/wolf-nieve.gif" width="100%"/>
 
 ```c
 user_t me = {
